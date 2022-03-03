@@ -8,8 +8,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class Buy_Test_Prod {
-
+public class BuyTestProd {
 	private WebDriver driver;
 	BuyPage buyPage;
 
